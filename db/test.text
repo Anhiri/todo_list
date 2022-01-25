@@ -1,0 +1,8 @@
+
+      <!-- <select v-model="selected" @change="sortListTask" id="sort" class="sort">
+        <option>Default</option>
+        <option>A - Z</option>
+        <option>Z - A</option>
+        <option>Completed</option>
+        <option>Unfinished</option>
+      </select> -->
